@@ -16,7 +16,7 @@ import {
   publicKey as publicKeySerializer,
   struct,
   u64,
-} from '@metaplex-foundation/umi/serializers';
+} from '@metaplex-foundation/umi-serializers';
 
 export type LeafSchema = {
   __kind: 'V1';

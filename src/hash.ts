@@ -6,7 +6,7 @@ import {
   u16,
   u64,
   u8,
-} from '@metaplex-foundation/umi/serializers';
+} from '@metaplex-foundation/umi-serializers';
 import { keccak_256 } from '@noble/hashes/sha3';
 import {
   MetadataArgsArgs,

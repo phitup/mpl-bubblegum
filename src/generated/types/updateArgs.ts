@@ -16,7 +16,7 @@ import {
   string,
   struct,
   u16,
-} from '@metaplex-foundation/umi/serializers';
+} from '@metaplex-foundation/umi-serializers';
 import { Creator, CreatorArgs, getCreatorSerializer } from '.';
 
 export type UpdateArgs = {

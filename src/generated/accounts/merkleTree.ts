@@ -19,7 +19,7 @@ import {
   gpaBuilder,
   publicKey as toPublicKey,
 } from '@metaplex-foundation/umi';
-import { bytes } from '@metaplex-foundation/umi/serializers';
+import { bytes } from '@metaplex-foundation/umi-serializers';
 import {
   MerkleTreeAccountData,
   getMerkleTreeAccountDataSerializer,

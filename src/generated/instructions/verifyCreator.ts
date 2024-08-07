@@ -23,7 +23,7 @@ import {
   u32,
   u64,
   u8,
-} from '@metaplex-foundation/umi/serializers';
+} from '@metaplex-foundation/umi-serializers';
 import { resolveCreatorHash, resolveDataHash } from '../../hooked';
 import { findTreeConfigPda } from '../accounts';
 import {

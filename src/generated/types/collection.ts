@@ -12,7 +12,7 @@ import {
   bool,
   publicKey as publicKeySerializer,
   struct,
-} from '@metaplex-foundation/umi/serializers';
+} from '@metaplex-foundation/umi-serializers';
 
 export type Collection = { verified: boolean; key: PublicKey };
 

@@ -18,7 +18,7 @@ import {
   u32,
   u64,
   u8,
-} from '@metaplex-foundation/umi/serializers';
+} from '@metaplex-foundation/umi-serializers';
 
 export type ConcurrentMerkleTreeHeaderData = {
   __kind: 'V1';

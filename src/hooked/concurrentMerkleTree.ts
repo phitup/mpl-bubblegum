@@ -1,5 +1,5 @@
 import { publicKeyBytes } from '@metaplex-foundation/umi';
-import { array, struct, u64 } from '@metaplex-foundation/umi/serializers';
+import { array, struct, u64 } from '@metaplex-foundation/umi-serializers';
 import { ChangeLog, ChangeLogArgs, getChangeLogSerializer } from './changeLog';
 import { Path, PathArgs, getPathSerializer } from './path';
 

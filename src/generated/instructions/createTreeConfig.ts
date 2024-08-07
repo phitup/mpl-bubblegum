@@ -27,7 +27,7 @@ import {
   struct,
   u32,
   u8,
-} from '@metaplex-foundation/umi/serializers';
+} from '@metaplex-foundation/umi-serializers';
 import { findTreeConfigPda, getTreeConfigSize } from '../accounts';
 import {
   ResolvedAccount,

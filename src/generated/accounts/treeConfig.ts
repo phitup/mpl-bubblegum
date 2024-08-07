@@ -28,7 +28,7 @@ import {
   struct,
   u64,
   u8,
-} from '@metaplex-foundation/umi/serializers';
+} from '@metaplex-foundation/umi-serializers';
 import {
   DecompressibleState,
   DecompressibleStateArgs,

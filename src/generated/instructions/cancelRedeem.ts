@@ -21,7 +21,7 @@ import {
   mapSerializer,
   struct,
   u8,
-} from '@metaplex-foundation/umi/serializers';
+} from '@metaplex-foundation/umi-serializers';
 import { findTreeConfigPda } from '../accounts';
 import {
   ResolvedAccount,

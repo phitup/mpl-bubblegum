@@ -1,5 +1,5 @@
 import { Context, Pda, PublicKey } from '@metaplex-foundation/umi';
-import { publicKey } from '@metaplex-foundation/umi/serializers';
+import { publicKey } from '@metaplex-foundation/umi-serializers';
 import { MPL_BUBBLEGUM_PROGRAM_ID } from '../generated';
 
 export function findMintAuthorityPda(

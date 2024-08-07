@@ -6,7 +6,7 @@ import {
   publicKey,
   struct,
   u32,
-} from '@metaplex-foundation/umi/serializers';
+} from '@metaplex-foundation/umi-serializers';
 
 export type Path = {
   proof: PublicKey[];

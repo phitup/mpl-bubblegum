@@ -4,7 +4,7 @@ import {
   PublicKey,
   TransactionSignature,
 } from '@metaplex-foundation/umi';
-import { publicKey, string, u64 } from '@metaplex-foundation/umi/serializers';
+import { publicKey, string, u64 } from '@metaplex-foundation/umi-serializers';
 import {
   LeafSchema,
   MPL_BUBBLEGUM_PROGRAM_ID,

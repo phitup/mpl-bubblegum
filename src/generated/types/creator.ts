@@ -13,7 +13,7 @@ import {
   publicKey as publicKeySerializer,
   struct,
   u8,
-} from '@metaplex-foundation/umi/serializers';
+} from '@metaplex-foundation/umi-serializers';
 
 export type Creator = {
   address: PublicKey;
